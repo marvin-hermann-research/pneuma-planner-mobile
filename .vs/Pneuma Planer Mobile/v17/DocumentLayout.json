@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F7D02-1FE2-24BD-7ED6-9FF6E598FBFD}|Assembly-CSharp.csproj|E:\\Unity\\Projekte\\Pneuma Planer Mobile\\assets\\scripts\\notizenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F7D02-1FE2-24BD-7ED6-9FF6E598FBFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notizenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F7D02-1FE2-24BD-7ED6-9FF6E598FBFD}|Assembly-CSharp.csproj|e:\\unity\\projekte\\pneuma planer mobile\\assets\\scripts\\discordbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F7D02-1FE2-24BD-7ED6-9FF6E598FBFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\discordbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F7D02-1FE2-24BD-7ED6-9FF6E598FBFD}|Assembly-CSharp.csproj|E:\\Unity\\Projekte\\Pneuma Planer Mobile\\assets\\scripts\\colorstylehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F7D02-1FE2-24BD-7ED6-9FF6E598FBFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorstylehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F7D02-1FE2-24BD-7ED6-9FF6E598FBFD}|Assembly-CSharp.csproj|E:\\Unity\\Projekte\\Pneuma Planer Mobile\\assets\\scripts\\wiederkehrendenotizenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F7D02-1FE2-24BD-7ED6-9FF6E598FBFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wiederkehrendenotizenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10F7D02-1FE2-24BD-7ED6-9FF6E598FBFD}|Assembly-CSharp.csproj|E:\\Unity\\Projekte\\Pneuma Planer Mobile\\assets\\scripts\\kalenderlogik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10F7D02-1FE2-24BD-7ED6-9FF6E598FBFD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kalenderlogik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorstyleHandler.cs",
+              "DocumentMoniker": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\Assets\\Scripts\\ColorstyleHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorstyleHandler.cs",
+              "ToolTip": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\Assets\\Scripts\\ColorstyleHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorstyleHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACkAAABNAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-18T12:52:40.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WiederkehrendeNotizenHandler.cs",
+              "DocumentMoniker": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\Assets\\Scripts\\WiederkehrendeNotizenHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WiederkehrendeNotizenHandler.cs",
+              "ToolTip": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\Assets\\Scripts\\WiederkehrendeNotizenHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WiederkehrendeNotizenHandler.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAkAAAApAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-16T23:36:30.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscordBot.cs",
+              "DocumentMoniker": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\Assets\\Scripts\\DiscordBot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiscordBot.cs",
+              "ToolTip": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\Assets\\Scripts\\DiscordBot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiscordBot.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAwJ8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:21:55.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotizenHandler.cs",
+              "DocumentMoniker": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\Assets\\Scripts\\NotizenHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NotizenHandler.cs",
+              "ToolTip": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\Assets\\Scripts\\NotizenHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NotizenHandler.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAiwPoAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:09:37.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KalenderLogik.cs",
+              "DocumentMoniker": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\Assets\\Scripts\\KalenderLogik.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KalenderLogik.cs",
+              "ToolTip": "E:\\Unity\\Projekte\\Pneuma Planer Mobile\\Assets\\Scripts\\KalenderLogik.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KalenderLogik.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAkwJAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-14T17:11:20.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

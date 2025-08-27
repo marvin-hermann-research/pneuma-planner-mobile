@@ -1,0 +1,5 @@
+# ninja log v5
+0	294	7514647696591745	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	19ea6bf79600e043
+295	374	7514647697406159	E:/Unity/Projekte/Pneuma Planer Mobile/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6v3h55cd/obj/armeabi-v7a/libswappywrapper.so	48255d72e0902667
+1	115	7518086649779940	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	19ea6bf79600e043
+115	213	7518086650779852	E:/Unity/Projekte/Pneuma Planer Mobile/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6v3h55cd/obj/armeabi-v7a/libswappywrapper.so	48255d72e0902667
