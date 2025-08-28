@@ -4,6 +4,8 @@
 This repository contains a Unity project implementing a simple calendar with adjustable recurring events as well as addable one-time events.  
 The unique twist: a Discord server is used as the **database**, managed through a custom Discord bot that reads and writes .txt files directly in a channel.
 
+<img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/3704984f-251a-4a3a-9744-11c1ab515937" />
+
 ## Motivation
 Inspired by several YouTube videos on *"storing data in unorthodox ways"*, I set out to build my own calendar app using Discord as its database host.  
 This was an experiment in combining creativity with technical exploration.
