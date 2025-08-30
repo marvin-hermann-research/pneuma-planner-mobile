@@ -6,6 +6,7 @@ The unique twist: a Discord server is used as the **database**, managed through 
 
 <p align="center">
   <img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/3704984f-251a-4a3a-9744-11c1ab515937" />
+  <img width="600" height="913" alt="image" src="https://github.com/user-attachments/assets/c9c8684f-564c-4b50-ba05-9f18b3522739" />
 </p>
 
 ## Motivation
